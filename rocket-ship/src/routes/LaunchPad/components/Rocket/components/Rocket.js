@@ -1,6 +1,7 @@
 import React, { useState, Component } from 'react';
 import RocketCore from './RocketCore';
 
+  // memoize the rocket components
 export function FunctionalRocket() {
   const [initialLaunchTime] = useState(Date.now());
 
