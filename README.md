@@ -35,7 +35,7 @@ Data visualisation and graphing. API usage.
 
 &nbsp;
 ### Hard 😬
-##### 🎧 [Spootify](https://github.com/alexgurr/react-coding-challenges/tree/master/spootify)
+##### 🎧 [Spootify](https://github.cocdm/alexgurr/react-coding-challenges/tree/master/spootify)
 Loading state, API usage.
 
 ##### 🤖 [Chatter](https://github.com/alexgurr/react-coding-challenges/tree/master/chatter)
